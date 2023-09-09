@@ -1,0 +1,12 @@
+this is my text file.
+
+
+git config --global user.name"Junaidalishah"
+git config --global user.email"sjunaidali47@gmail.com"
+
+
+
+git add *
+git commit -m " i have created my first file"
+git push
+
